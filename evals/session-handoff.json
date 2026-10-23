@@ -1,0 +1,13 @@
+{
+  "skill": "session-handoff",
+  "version": "2026-10-23",
+  "should_trigger": [
+    "新会话怎么接手这份资料",
+    "接手文档好像过期了，帮我核一遍",
+    "接手之后第一步该先跑什么命令"
+  ],
+  "should_not": [
+    "把这段 Python 改成 JavaScript",
+    "讲讲 C 的编译链接过程"
+  ]
+}

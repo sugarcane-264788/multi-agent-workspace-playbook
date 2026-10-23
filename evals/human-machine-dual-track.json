@@ -1,0 +1,13 @@
+{
+  "skill": "human-machine-dual-track",
+  "version": "2026-10-23",
+  "should_trigger": [
+    "要不要把全部文档转成 JSON",
+    "机器读的状态格式怎么设计",
+    "快照和源文件不一致怎么办"
+  ],
+  "should_not": [
+    "把这段中文翻译成英文",
+    "这个 CSV 怎么导入 Excel"
+  ]
+}
