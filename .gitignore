@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+
+# 本地运行产物
+*.log
+.mailbox/
+scratch/
